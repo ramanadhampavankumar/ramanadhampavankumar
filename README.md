@@ -1,15 +1,16 @@
 <div align="">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramanadhampavankumar.ramanadhampavankumar">
+<!-- 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheMohit2003.TheMohit2003">
+ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=E835F7FF&center=true&width=435&lines=Hi+!+welcome+to+my+repo....)](https://git.io/typing-svg)
 
-# Hi, I'm Mohit! 👋
+# Hi, I'm Pavan Kumar! 👋
 
 
 ## 🚀 About Me
 <!-- I'm a web developer .
-
 I really enjoy making webpages and its components using programming languages. -->
 Welcome to my GitHub profile! I am a web developer with a passion for creating clean, efficient and user-friendly websites. Skilled in using Bootstrap and React, I am always looking to improve my skills and learn new technologies. From coding and debugging to designing and testing, I love every aspect of the development process. On this profile, you will find a variety of projects that showcase my abilities as a developer.
 
